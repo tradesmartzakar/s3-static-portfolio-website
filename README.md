@@ -40,4 +40,5 @@ This update documents the successful deployment of a static portfolio website us
 A live, publicly accessible static portfolio hosted on Amazon S3, serving as a foundation for documenting cloud projects and professional growth.
 
 🔗 **Live Site:**  
-http://luit-portfolio-705.s3-website-us-east-2.amazonaws.com
+[http://luit-portfolio-705.s3-website-us-east-2.amazonaws.com](http://luit-portfolio-705.s3-website.us-east-2.amazonaws.com)
+
